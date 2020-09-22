@@ -9,9 +9,6 @@
 - 💬 Ask me about anything. This is an AMA.
 - 😄 Pronouns: He
 
-# Out of interest, I found this feature because I was curious how the profile view count works. Now I know.
-
-
-
+#### Out of interest, I found this feature because I was curious how the profile view count works. Now I know.
 
 Kthnxbye
