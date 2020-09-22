@@ -1,16 +1,17 @@
-### Hi there 👋
+![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
 
-<!--
-**Droidking18/Droidking18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### It seems like you've landed on my profile. Welcome, I guess.
 
-Here are some ideas to get you started:
+## I didn't know what to put here but GitHub gave me these meme ideas, so here.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on a react native app.
+- 🌱 I’m currently learning about memes.
+- 💬 Ask me about anything. This is an AMA.
+- 😄 Pronouns: He
+
+# Out of interest, I found this feature because I was curious how the profile view count works. Now I know.
+
+
+
+
+Kthnxbye
