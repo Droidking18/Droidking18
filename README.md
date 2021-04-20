@@ -11,4 +11,8 @@
 
 #### Out of interest, I found this feature because I was curious how the profile view count works. Now I know.
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Droidking18&layout=compact&hide=html" alt="Droidking18" /></p>
+
+<p>&nbsp;<img align="center" style="max-width: 50%" width="50%" src="https://github-readme-stats.vercel.app/api?username=Droidking18&show_icons=true" alt="Droidking18" /></p>
+
 Kthnxbye
