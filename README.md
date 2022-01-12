@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
+![](https://komarev.com/ghpvc/?username=Droidking18&style=flat-square)
 
 # It seems like you've landed on my profile. Welcome, I guess.
 
